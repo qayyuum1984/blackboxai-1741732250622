@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Mutabaah</string>
+    
+    <!-- Screen Titles -->
+    <string name="daily_tracking_title">My Mutabaah</string>
+    <string name="dashboard_title">Dashboard</string>
+    
+    <!-- Navigation Labels -->
+    <string name="nav_daily">Daily</string>
+    <string name="nav_dashboard">Dashboard</string>
+    
+    <!-- Daily Tracking Screen -->
+    <string name="daily_prayers">Daily Prayers</string>
+    <string name="prayer_fajr">Fajr</string>
+    <string name="prayer_dhuhr">Dhuhr</string>
+    <string name="prayer_asr">Asr</string>
+    <string name="prayer_maghrib">Maghrib</string>
+    <string name="prayer_isha">Isha</string>
+    
+    <!-- Other Activities -->
+    <string name="other_activities">Other Activities</string>
+    <string name="quran_recitation">Quran Recitation</string>
+    <string name="charity">Charity</string>
+    
+    <!-- Dashboard Screen -->
+    <string name="weekly_progress">Weekly Progress</string>
+    <string name="weekly_overview">This Week\'s Overview</string>
+    <string name="prayer_completion">Prayer Completion</string>
+    <string name="quran_streak">Quran Streak</string>
+    <string name="achievements">Achievements</string>
+    
+    <!-- Achievement Titles -->
+    <string name="achievement_prayer_champion">Prayer Champion</string>
+    <string name="achievement_prayer_champion_desc">Completed 80% or more of daily prayers</string>
+    <string name="achievement_quran_reader">Quran Reader</string>
+    <string name="achievement_quran_reader_desc">Completed today\'s Quran recitation</string>
+    <string name="achievement_generous">Generous Heart</string>
+    <string name="achievement_generous_desc">Gave charity today</string>
+    
+    <!-- Error Messages -->
+    <string name="error_save_progress">Failed to save progress</string>
+    <string name="error_load_progress">Failed to load progress</string>
+</resources>
